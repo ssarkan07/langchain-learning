@@ -1,0 +1,24 @@
+Artificial Intelligence (AI) is one of the fastest-growing fields in computer science.
+It enables machines to perform tasks that typically require human intelligence, such as
+learning, reasoning, problem-solving, and decision-making.
+
+Machine Learning (ML) is a subset of Artificial Intelligence that allows computers to
+learn from data without being explicitly programmed. Popular machine learning algorithms
+include Linear Regression, Decision Trees, Random Forest, Support Vector Machines, and
+Neural Networks.
+
+Deep Learning is a specialized branch of Machine Learning that uses artificial neural
+networks with multiple hidden layers. Deep learning has achieved state-of-the-art
+performance in computer vision, natural language processing, and speech recognition.
+
+Python is the most popular programming language for AI and Data Science because of its
+rich ecosystem of libraries. Some commonly used libraries are NumPy, Pandas, Matplotlib,
+Scikit-learn, TensorFlow, and PyTorch.
+
+Large Language Models (LLMs) such as GPT are trained on vast amounts of text data.
+They can answer questions, summarize documents, translate languages, generate code,
+and assist with many other tasks.
+
+Retrieval-Augmented Generation (RAG) combines a language model with an external knowledge
+source. Instead of relying only on its training data, the model retrieves relevant
+documents and uses them to generate more accurate and up-to-date responses.

@@ -1,0 +1,110 @@
+[
+  {
+    "employee_id": "EMP001",
+    "first_name": "Arjun",
+    "last_name": "Sharma",
+    "age": 28,
+    "gender": "Male",
+    "department": "Software Development",
+    "designation": "Software Engineer",
+    "salary": 650000,
+    "experience": 3,
+    "email": "arjun.sharma@example.com",
+    "phone": "+91-9876543210",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "joining_date": "2022-07-15",
+    "skills": [
+      "Python",
+      "Django",
+      "SQL",
+      "Git"
+    ]
+  },
+  {
+    "employee_id": "EMP002",
+    "first_name": "Priya",
+    "last_name": "Patel",
+    "age": 31,
+    "gender": "Female",
+    "department": "Data Science",
+    "designation": "Data Scientist",
+    "salary": 950000,
+    "experience": 6,
+    "email": "priya.patel@example.com",
+    "phone": "+91-9876543211",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "joining_date": "2020-02-10",
+    "skills": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "TensorFlow"
+    ]
+  },
+  {
+    "employee_id": "EMP003",
+    "first_name": "Rahul",
+    "last_name": "Verma",
+    "age": 26,
+    "gender": "Male",
+    "department": "Quality Assurance",
+    "designation": "QA Engineer",
+    "salary": 520000,
+    "experience": 2,
+    "email": "rahul.verma@example.com",
+    "phone": "+91-9876543212",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "joining_date": "2023-04-01",
+    "skills": [
+      "Selenium",
+      "Java",
+      "API Testing"
+    ]
+  },
+  {
+    "employee_id": "EMP004",
+    "first_name": "Neha",
+    "last_name": "Singh",
+    "age": 35,
+    "gender": "Female",
+    "department": "Human Resources",
+    "designation": "HR Manager",
+    "salary": 850000,
+    "experience": 10,
+    "email": "neha.singh@example.com",
+    "phone": "+91-9876543213",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "joining_date": "2018-09-20",
+    "skills": [
+      "Recruitment",
+      "Employee Relations",
+      "Payroll"
+    ]
+  },
+  {
+    "employee_id": "EMP005",
+    "first_name": "Vikram",
+    "last_name": "Joshi",
+    "age": 40,
+    "gender": "Male",
+    "department": "Cloud Infrastructure",
+    "designation": "DevOps Engineer",
+    "salary": 1200000,
+    "experience": 12,
+    "email": "vikram.joshi@example.com",
+    "phone": "+91-9876543214",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "joining_date": "2016-01-12",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform"
+    ]
+  }
+]

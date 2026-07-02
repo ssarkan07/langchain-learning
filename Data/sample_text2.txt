@@ -1,0 +1,17 @@
+Data Science is an interdisciplinary field that combines statistics,
+programming, and domain knowledge to extract meaningful insights from data.
+
+The data science lifecycle typically includes data collection, data cleaning,
+exploratory data analysis, feature engineering, model building, model evaluation,
+and deployment.
+
+Pandas is a powerful Python library used for data manipulation and analysis.
+It provides data structures such as Series and DataFrames, making it easy to
+work with structured data.
+
+Visualization libraries like Matplotlib and Plotly help data scientists
+understand patterns, trends, and relationships within datasets.
+
+After training a machine learning model, it is evaluated using metrics such as
+accuracy, precision, recall, F1-score, and ROC-AUC. These metrics help determine
+how well the model performs on unseen data.

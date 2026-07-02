@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Brand,Price,Stock,Rating
+P001,Wireless Mouse,Electronics,LogiTech,899,120,4.5
+P002,Mechanical Keyboard,Electronics,Redragon,2499,75,4.7
+P003,Gaming Headset,Electronics,HyperX,3499,40,4.6
+P004,USB-C Charger,Accessories,Anker,1499,90,4.8
+P005,Laptop Stand,Accessories,Portronics,1299,60,4.4
+P006,Smart Watch,Wearables,Noise,3999,55,4.3
+P007,Bluetooth Speaker,Audio,JBL,2799,35,4.7
+P008,External SSD 1TB,Storage,Samsung,7999,25,4.9
+P009,Webcam HD,Electronics,LogiTech,3199,50,4.5
+P010,27-inch Monitor,Electronics,Dell,15999,20,4.8
